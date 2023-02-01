@@ -1,4 +1,4 @@
-# OHDSI WebAPI version webapi-master-2.12
+# OHDSI WebAPI code from WebAPI-master-2.12
 
 OHDSI WebAPI contains all OHDSI RESTful services that can be called from OHDSI applications.
 
